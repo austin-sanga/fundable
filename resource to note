@@ -1,0 +1,69 @@
+ * { outline: 1px dotted red }  use this to keep an eye of your css styling.
+ JUSTCODED..
+Things to consider on platform.
+
+1.Platform: choosing either Android or iOS or both is up to you. 
+Just think about the operating system you want your application to run on.
+ If you want the best of both worlds, consider hybrid app development to save time and effort of developers.
+
+2.Off-the-shelf software: there are many ready-to-use scripts at hand to shorten your journey and help you reach the final milestone faster — the majority of tools you can find for free and with custom tune-ups.
+
+3.Partial outsourcing or turnkey: as an option, you can hire a full-service contractor who will be in charge of design and project implementation. If their price happens to be sky-high, you can leave some tasks to your in-house team and pass on the rest to a FinTech company.
+
+4.Digital signature and encryption technologies: since a mobile crowd-investing application has a lot of sensitive info exchange going through, security should be taken seriously to protect personal data and prevent leaks and breaches.
+
+5.User experience and interface: don’t judge a book by its cover. If your app looks lame, no one would care much about a great functionality it has to offer. The look and feel should be appealing for a user.
+
+Features to consider,,
+
+1.Registration and login options. If earlier, linking your social media accounts were a nice-to-have feature, nowadays it’s an absolute must-have. Users get spoiled with a myriad of iOS and Android apps with a sleek design and smooth user experience, so doing basic things quickly as registration or login is the key.
+
+2.Online payment integration is another crucial step to consider when doing the estimates for your project. If you look at the crowdfunding scene, the majority of platforms use PayPal, WePay or any other online processing partner to deal with backers.
+
+3.Loan book relates exclusively to the feature set of the peer-to-peer lending app. Think of this particular feature as a “wish list where you add the categories of loans that do not yet exist on the app. This option can help you monitor the expectations of users and easily tap into those when scaling the business. Once a new category pops up on the platform, you’ll let the users know by sending push-notifications.
+
+4.Auto-investments is a method to build a portfolio by using predefined scenario when customers define specific parameters and money flows into projects that match those. While this is happening, a user is at rest and puts 0 efforts while his money is being invested on autopilot.
+
+5.A referral system is similar to any other “bring a friend, get a bonus kind of scheme. This feature relates to happy investors who are content with the app and willing to share the joy with their friends and family bringing them onboard, too.
+
+6.Push notifications are great to inform users about new categories of project. Why considering push-notifications if you want to make your own crowd-investing app?
+
+7.Pushing the updates rather than sending them by email is likely to be a proper call to action. Each mobile platform has support for push notifications – iOS, Android, Fire OS, Windows and BlackBerry have their services.
+
+8.A dashboard is similar to a control panel in a car. This is the place where users can see how justified and successful their efforts are, make use of analytics and plan future steps to build other campaigns or donate more.
+
+9.A bonus system for success: to encourage your customers to stay with you and build more trust offer perks that benefit outstanding fundraisers. An option to pay in instalments or waiving fees partially, for example, can be an excellent way to say “Thank you for choosing your company.
+
+
+app building process,,
+8 basic steps.
+
+1.Step 1. Idea & goals: not just a great idea for an app, but also a real and detailed business strategy matters. Before you start developing an application, you need to know the answers to these questions:
+
+Why do you think people will use your app?
+What does your app do?
+What problem would an app help to solve?
+
+2.Step 2. Research: including the overall market research, competitor and especially user/customer research. Identify your top competitors, analyse their products, compare their strategies and try to come up with something they are missing.
+
+3.Step 3. Wire-frames & UX: first mock-ups of your app are created to understand the user flow and what the app should be doing. This is also called an information architecture – a scheme reflecting all possible user actions. At this stage, we advise using helpful tools — Mockingbot, Axure, Sketchapp, etc.
+
+4.Step 4. Back-end construction: application development is a huge process that first and utmost depends on the application backend, which itself involves making important decisions about the set of tools, technology stack, programming languages, services and architecture design.
+
+There are two ways to create a backend for your app: use a SaaS solution (e.g. Firebase, AWS Mobile Hub, CloudKit) or develop a custom one. The former one is better in terms of time required to have a backend with common features while with the latter you’ll have more ways to customise the application behaviour, but it needs more time though.
+
+5.Step 5. Visual design: before creating the design for a future website or application, you should do UX research which is a part of the discovery phase. Eliminating errors at this stage will help to save most of the budget.
+
+6.Step 6. Development stage: mobile application development is an iterative process. Divide all the development tasks into smaller ones so each sprint will include planning, developing, and testing.
+
+We always adhere to this principle and shows the passing result to our customers. Only after receiving the feedback, we proceed to the next part of the work.
+
+7.Step 7. Testing: quality assurance engineers test the app.
+
+Software testing plays a considerable role in the development, improving and cleaning of the final product.
+
+8.tep 8. Release: after all tweaks and improvements are done and dusted (and tested again) the final chapter in the app development saga arrives. Check submission policies of the app store of your choice to minimise time and effort to comply.
+
+
+
+
