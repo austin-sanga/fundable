@@ -2,10 +2,13 @@ body{
     width: 1440.0px;
 height: 1980.0px;
 background: linear-gradient(#95E184,#FFFFFF,#95E184);
+  margin:0;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
-.head{
-    width: 1440.0px;
+.topnav{
+  overflow: hidden;
+width: 1440.0px;
 height: 59.99999999999996px;
 font-family: Arial;
 font-size: 14.0px;
@@ -14,4 +17,24 @@ text-align: center;
 color: #333333;
 background-color: #FFFFFF;
 
+padding: 0.5em;
+
 }
+.topnav a:title{
+    float: left;
+    width: 272.9999999999999px;
+height: 30.000000000000043px;
+font-family: SansSerif;
+font-size: 24.0px;
+font-weight: 700;
+color: #469F42;
+
+
+}
+.topnav a:other{
+    font-family: SansSerif;
+font-size: 21.333334px;
+font-weight: 700;
+color: #333333;
+}
+
