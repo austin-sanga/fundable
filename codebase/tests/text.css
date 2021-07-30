@@ -1,0 +1,24 @@
+h1 {
+   font-family:arial,"times new roman";
+   font-size:22px ;
+   font-style: italic;
+   font-weight: 100;
+   text-align: left;
+   text-decoration: underline;
+   text-indent:30px;
+   text-transform:uppercase;
+   color:rgba(red, green, blue, 1);
+   letter-spacing: 10px;
+   word-spacing: 10px;
+   line-height: 2;
+
+}
+p {
+    line-height: 40px;
+    font-size: 42px;
+    text-indent: 30px;
+}
+
+a {
+    text-decoration: none;
+}
