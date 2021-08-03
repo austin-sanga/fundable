@@ -187,16 +187,16 @@ article{
 
 .login-card h1 {
   text-align: center;
-  font-family:open Sans;
+  font-family:"open Sans";
   color:#FFFFFF;
   font-weight:700px;
   font-size:20px;
   line-height:27px;
-  padding-top: 24px;
+  padding-top: 15px;
 }
 
 .lock{ 
-  padding-left:175px; width:30px; height:25px; padding-top:0px;
+  padding-left:160px; width:30px; height:25px; padding-top:0px;
 }
 
 .log_body{ 
@@ -225,3 +225,4 @@ article{
 .log_body a{ 
   text-decoration:none; color:#78EEB2; font-family:open Sans; font-weight:900px; font-size:15px; line-height:21px;
 }
+
