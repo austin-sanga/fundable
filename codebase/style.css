@@ -161,7 +161,7 @@ ol li{
 }
 
 article{
-  color: white;
+  color: black;
   padding: 7em;
 }
 
@@ -226,3 +226,58 @@ article{
   text-decoration:none; color:#78EEB2; font-family:open Sans; font-weight:900px; font-size:15px; line-height:21px;
 }
 
+.aboutsideA{
+  padding-right: 2em;
+  line-height:24px;
+  font-size:20px;
+}
+
+.itemgrid{
+  width: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.item{
+  height:95% ;
+  width:95% ;
+  background-color: blue;
+}
+
+.howitworks{
+  width: 100%;
+  height: 300px;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url(imgsvd/howto.png);
+}
+
+.imagehow{
+  background-color: rgb(249, 249, 252);
+}
+
+.itworks-columns{
+  padding: 15px;
+  background-color: white;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  margin: 45px 0px 45px;
+  
+}
+
+.itworkcolumn{
+  padding: 10px;
+  line-height: 1.7;
+}
+h9{
+  text-decoration: underline rgb(32, 32, 211);
+  font-size: 20px;
+  color: #302f2f;
+
+}
+
+.iwc-p{
+  font-size: 18px;
+  color: #7c7c7c;
+}
