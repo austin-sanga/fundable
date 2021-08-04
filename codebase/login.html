@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet">
+      <script type="text/javascript" src="javascript.js" ></script>  
 </head>
 <body>
 
@@ -33,16 +34,16 @@
         
         
         <div class="log_body">
-        <form action="#" method="get">
+        <form action="#" method="get" name="loginform" onsubmit="return(loginvalidate());">
          <table width="200" border="0" align="center">
           <tr>
-            <td><input placeholder="Email" type="text" name="emailid" class="log_user" ></td>
+            <td><input placeholder="Email" type="email" name="emailid" class="log_user" ></td>
           </tr>
           <tr>
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td><input placeholder="Password" type="password" name="pass" class="log_Pass"></td>
+            <td><input placeholder="Password" type="password" name="pass" class="log_Pass" ></td>
           </tr>
           <tr>
             <td>&nbsp;</td>

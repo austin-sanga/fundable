@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="register.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet">
-    
+    <script type="text/javascript" src="javascript.js" ></script>  
 
 </head>
 <body>
@@ -38,7 +38,7 @@
         
         
         <div class="log_body">
-        <form action="#" method="get">
+        <form action="#" method="get" name="registrationform" onsubmit="return(registervalidate());">
          <table width="200" border="0" align="center">
           <tr>
             <td><input placeholder="First Name" type="text" name="firstname" class="log_user" ></td>
