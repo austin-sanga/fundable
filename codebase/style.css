@@ -10,6 +10,7 @@ nav {
     height:80px;
     background-color: #ffff;
     padding-bottom: 0%;
+  
 }
 
 ul{
@@ -262,7 +263,7 @@ article{
   background-color: white;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  margin: 45px 0px 45px;
+  /* margin: 45px 0px 45px; */
   
 }
 
@@ -270,6 +271,13 @@ article{
   padding: 10px;
   line-height: 1.7;
 }
+
+.main-itworks-columns{
+  background-color: white;
+  margin: 45px 0px 45px;
+  
+}
+
 h9{
   text-decoration: underline rgb(32, 32, 211);
   font-size: 20px;
@@ -280,4 +288,19 @@ h9{
 .iwc-p{
   font-size: 18px;
   color: #7c7c7c;
+}
+
+.register-itwork{
+  padding-bottom: 1em;
+}
+
+
+.register-itworks{
+  background:#4DC889; border:none; border-radius: 10px; width:140px; height:30px; cursor:pointer; font-family:open Sans; font-weight:700px; font-size:20px; color:#FFFFFF;
+  display: block; text-decoration: none; padding-top:10px ;
+  
+}
+
+.register-itworks:hover{
+  background:darkgreen;
 }
